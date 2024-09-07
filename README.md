@@ -8,7 +8,7 @@ This project is an **Employee Management System** built with **Spring Boot** (ba
 - Responsive UI with React
 
 ## Technologies Used
-- **Backend**: Spring Boot, Spring Data JPA, H2/MySQL, Spring Security (optional)
+- **Backend**: Spring Boot, Spring Data JPA, H2/MySQL, Spring Security with JWT
 - **Frontend**: React, Axios
 
 ## Setup
